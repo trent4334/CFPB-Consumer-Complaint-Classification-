@@ -15,7 +15,6 @@ This project leverages **natural language processing (NLP)** and **machine learn
   - `complaint_what_happened`: Consumer’s narrative (free text)
   - `product`: Complaint category (target variable)
   - Other metadata (e.g., date, company, state)
-![Screenshot 2025-06-03 at 17 13 43](https://github.com/user-attachments/assets/9a5c12c0-db27-41bc-9eb1-b9c48e8b4d1e)
 
 ---
 
